@@ -10,8 +10,8 @@ the basic idea is taken from this article https://dev.to/kgprajwal/learn-react-b
 
 
 sample 1
-![](test1.PNG)
+![](test1.png)
 sample 2
-![](test2.PNG)
+![](test2.png)
 
 
